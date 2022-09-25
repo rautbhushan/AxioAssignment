@@ -1,0 +1,6 @@
+1.00 Indian Rupee = 0.012307757 US Dollars
+1.00 Indian Rupee = 0.012692661 Euros
+1.00 Indian Rupee = 0.011337339 British Pounds
+1.00 Indian Rupee = 0.017611964 Singapore Dollars
+1.00 Indian Rupee = 0.018835478 Australian Dollars
+1.00 Indian Rupee = 0.016729698 Canadian Dollars
